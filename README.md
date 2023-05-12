@@ -24,6 +24,7 @@ python bankers_algorithm_gui.py
 
 This will open the GUI window. Enter the number of processes, number of resources, allocated resources, maximum resources, and available resources in their respective fields, and then click the "Run Banker's Algorithm" button. The script will then run the Banker's algorithm and display the results in the output field.
 
+![main view of the app](main.png)
 ## License
 
 This script is provided under the MIT license. You can find the full license in the `LICENSE` file.
