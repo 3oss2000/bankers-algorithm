@@ -27,4 +27,4 @@ This will open the GUI window. Enter the number of processes, number of resource
 ![main view of the app](main.png)
 ## License
 
-This script is provided under the MIT license. You can find the full license in the `LICENSE` file.
+This script is provided under the MIT license. You can find the full license in the [`LICENSE`](LICENSE) file.
